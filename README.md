@@ -119,14 +119,11 @@ Contributions are welcome! If you’d like to contribute, please follow these st
 
 Please make sure your changes follow the existing code style and include appropriate tests (if applicable).
 
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-Your Name — [@yourhandle](https://github.com/yourhandle)
-Project Link: [https://github.com/your-username/chattables](https://github.com/your-username/chattables)
+Your Name — [@yourhandle](https://github.com/luaaths)
+Project Link: [https://github.com/luaaths/live-chat-application(https://github.com/your-username/chattables)
 
 ```
 
